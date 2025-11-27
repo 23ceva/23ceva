@@ -1,6 +1,6 @@
 # 👨‍💻 Rafael Cintra
 
-**`Full Stack Developer | PHP • JavaScript • PostgreSQL`**
+**`Full Stack Developer Jr. | PHP • JavaScript • PostgreSQL`**
 
 Olá! Meu nome é Rafael 👋 Sou graduado em Fisioterapia e decidi migrar para Tecnologia da Informação, área pela qual sempre tive interesse. Nesse processo, venho estudando diariamente, realizando cursos e desenvolvendo projetos práticos que fortalecem meu aprendizado.
 
