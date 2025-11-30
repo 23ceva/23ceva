@@ -1,8 +1,10 @@
 # 👨‍💻 Rafael Cintra
 
-**`Full Stack Developer Jr. | PHP • JavaScript • PostgreSQL`**
+**`Transição de Carreira para TI | Estudante Full Stack (JavaScript/React) | Buscando 1ª Oportunidade`**
 
-Olá! Meu nome é Rafael 👋 Sou graduado em Fisioterapia e decidi migrar para Tecnologia da Informação, área pela qual sempre tive interesse. Nesse processo, venho estudando diariamente, realizando cursos e desenvolvendo projetos práticos que fortalecem meu aprendizado.
+Olá! Meu nome é Rafael 👋 Sou graduado em Fisioterapia e estou em uma empolgante transição de carreira para a área de **Desenvolvimento Web**, uma paixão de longa data.
+
+Atualmente, estou focado na construção de uma base sólida em **Full Stack JavaScript**, estudando intensivamente a stack **React.js, Node.js e PostgreSQL** através de cursos e desenvolvendo projetos práticos para meu portfólio.
 
 A partir de 2026, iniciarei a graduação em **Sistemas de Informação** para aprofundar minhas habilidades técnicas e me consolidar como desenvolvedor. Valorizo desafios, aprendizado contínuo e colaboração — acredito que grandes resultados surgem quando conhecimento e trabalho em equipe caminham juntos.
 
@@ -27,26 +29,25 @@ A partir de 2026, iniciarei a graduação em **Sistemas de Informação** para a
 
 ---
 
-## 🛠 Tecnologias
+## 🛠 Tecnologias (Em Estudo Ativo)
 
-Tecnologias que utilizo para desenvolver meus projetos:
+Tecnologias que estou focando para desenvolver meus primeiros projetos:
 
 **Front-end:**
-HTML • CSS • JavaScript
+HTML • CSS • **JavaScript Moderno**
 
 **Back-end:**
-PHP • Laravel
+(Em breve: Node.js)
 
 **Banco de dados:**
-MySQL • PostgreSQL (estudando)
+**SQL** (Geral) • **PostgreSQL** • Modelagem de Dados
 
 **Ferramentas:**
-Figma • Git • GitHub • VS Code
+**Git** • **GitHub** (Uso Diário) • VS Code
 
-## 📚 Estudando atualmente
+## 📚 Estudando atualmente (Foco no Lote 1)
 
-* PHP moderno e Laravel
-* PostgreSQL
-* JavaScript (perfeiçoando)
-* MVC e boas práticas
-* Git/GitHub Flow
+* **JavaScript Moderno** (Base de Front-end e Back-end)
+* **SQL e PostgreSQL** (Consultas e Modelagem de Dados)
+* **Git e GitHub Flow** (Versionamento e Colaboração)
+* **Próximos Passos:** Node.js e React.js (Stack principal)
