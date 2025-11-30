@@ -37,7 +37,7 @@ Tecnologias que estou focando para desenvolver meus primeiros projetos:
 HTML • CSS • **JavaScript Moderno**
 
 **Back-end:**
-(Em breve: Node.js)
+(Em desenvolvimento)
 
 **Banco de dados:**
 **SQL** (Geral) • **PostgreSQL** • Modelagem de Dados
@@ -45,9 +45,10 @@ HTML • CSS • **JavaScript Moderno**
 **Ferramentas:**
 **Git** • **GitHub** (Uso Diário) • VS Code
 
-## 📚 Estudando atualmente (Foco no Lote 1)
+## 📚 Estudando Atualmente
 
-* **JavaScript Moderno** (Base de Front-end e Back-end)
-* **SQL e PostgreSQL** (Consultas e Modelagem de Dados)
-* **Git e GitHub Flow** (Versionamento e Colaboração)
-* **Próximos Passos:** Node.js e React.js (Stack principal)
+* **Fundamentos de Programação:** Lógica e Estruturas de Dados em JavaScript Moderno.
+* **Controle de Versão:** Uso prático de Git e GitHub para colaboração e versionamento de código.
+* **Sistemas de Gerenciamento de Banco de Dados (SGBD):** SQL, PostgreSQL e Design de Modelos de Dados.
+* **Redes:** Entendimento de protocolos de comunicação e funcionamento da Web (HTTP, TCP/IP).
+
